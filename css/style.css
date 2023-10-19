@@ -1,0 +1,34 @@
+#rcorners1 {
+    border-radius: 25px;
+    background: #ffffff;
+    padding: 20px; 
+    width: 300px;
+    height: 16px;  
+} 
+#rcorners2 {
+    border-radius: 25px;
+    background: #ffffff;
+    padding: 20px; 
+    width: 100px;
+    height: 16px;  
+}
+#rcorners3 {
+    border-radius: 25px;
+    background: #ffffff;
+    padding: 20px; 
+    width: 360px;
+    height: 16px;  
+}
+#rcorners4 {
+    border-radius: 25px;
+    background: #ffffff;
+    padding: 20px; 
+    width: 350Spx;
+    height: 355px;  
+}
+div {
+    white-space: pre;
+}
+p {
+    font-family: "Times New Roman", Times, serif;
+}
