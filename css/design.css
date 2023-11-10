@@ -1,0 +1,15 @@
+@media screen and (max-width: 600px) {
+    /* Styles for screens with a width up to 600 pixels */
+    body {
+        font-size: 14px;
+    }
+}
+
+@media screen and (min-width: 601px) and (max-width: 1024px) {
+    /* Styles for screens with a width between 601 and 1024 pixels */
+    body {
+        font-size: 16px;
+    }
+}
+
+/* Add more media queries as needed */
